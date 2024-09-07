@@ -1,4 +1,4 @@
-# Exercitando grid
+# Exercitando conceito de grid e nesting
 
 ## Tecnologias usadas:
 - HTML
